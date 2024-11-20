@@ -7,11 +7,9 @@
 <ol>
 <li><strong>Add to Cart:</strong> Easily add items to your cart with instant updates.</li>
 <li><strong>Search Products:</strong> Quickly find your desired products.</li>
-<<<<<<< HEAD
 <li><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
-=======
 <li>><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
->>>>>>> 549abe25e940e6ae31e5e6fda0e646abafe2e7ee
+
 <li><strong>Manage Cart:</strong> Add or remove items effortlessly.</li>
 <li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile.</li>
 </ol>
@@ -28,25 +26,30 @@
 
   <ol>
 </ol>
-<<<<<<< HEAD
 <hr/>
 <h1>ScreenShots<h1>
 <h3>Home page</h3>
 <hr/>
 <h1>⚙️ Installation and Setup</h1>
-<p>1.Clone the repository:</p>
+<p>1. Clone the repository:</p>
 <p>git clone https://github.com/kundansca/ezee-blitz-app.git</p>
-<p>2.Navigate to the project directory:</p>
+<p>2. Navigate to the project directory:</p>
 <p>cd ezee-blitz-app</p>
-<p>3.Install dependencies:</p>
+<p>3. Install dependencies:</p>
 <p>npm install</p>
-<p>4.Start the development server:</p>
+<p>4. Start the development server:</p>
 <p>npm run dev</p>
-<p>5.Open the app in your browser:</p>
+<p>5. Open the app in your browser:</p>
 <p>http://localhost:5173</p>
-=======
 
->>>>>>> 549abe25e940e6ae31e5e6fda0e646abafe2e7ee
+<h1>📬 Contact</h1>
+<p>If you have any suggestions or queries, feel free to reach out to me:</p>
+<ol>
+<li><a href="https://www.linkedin.com/in/kundan-kumar-singh-sca/" target="_blank">My LinkedIn Profile</a></li>
+<li><a href="https://github.com/kundansca" target="_blank">My Github Profile</a></li>
+<li><strong>EmailId:</strong>kksdarmiya@gmail.com</li>
+<li><strong>Contact Number:</strong>+918825332118</li>
+</ol>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
