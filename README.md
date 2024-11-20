@@ -7,7 +7,7 @@
 <ol>
 <li><strong>Add to Cart:</strong> Easily add items to your cart with instant updates.</li>
 <li><strong>Search Products:</strong> Quickly find your desired products.</li>
-<li>><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
+<li><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
 <li><strong>Manage Cart:</strong> Add or remove items effortlessly.</li>
 <li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile.</li>
 </ol>
@@ -24,7 +24,21 @@
 
   <ol>
 </ol>
-
+<hr/>
+<h1>ScreenShots<h1>
+<h3>Home page</h3>
+<hr/>
+<h1>⚙️ Installation and Setup</h1>
+<p>1.Clone the repository:</p>
+<p>git clone https://github.com/kundansca/ezee-blitz-app.git</p>
+<p>2.Navigate to the project directory:</p>
+<p>cd ezee-blitz-app</p>
+<p>3.Install dependencies:</p>
+<p>npm install</p>
+<p>4.Start the development server:</p>
+<p>npm run dev</p>
+<p>5.Open the app in your browser:</p>
+<p>http://localhost:5173</p>
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
