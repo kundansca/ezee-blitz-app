@@ -12,6 +12,19 @@
 <li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile.</li>
 </ol>
 
+<hr/>
+<h1>🛠️ Tech Stack</h1>
+<ol>
+  <li><strong>Frontend:</strong></li>
+  <ol>
+  <li>React.js</li>
+  <li>Redux Toolkit (for state management)</li>
+  <li>React Router (for navigation)</li>
+  <li>Bootstrap (for styling and responsiveness)</li>
+
+  <ol>
+</ol>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
