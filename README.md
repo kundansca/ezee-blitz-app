@@ -7,7 +7,11 @@
 <ol>
 <li><strong>Add to Cart:</strong> Easily add items to your cart with instant updates.</li>
 <li><strong>Search Products:</strong> Quickly find your desired products.</li>
+<<<<<<< HEAD
 <li><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
+=======
+<li>><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
+>>>>>>> 549abe25e940e6ae31e5e6fda0e646abafe2e7ee
 <li><strong>Manage Cart:</strong> Add or remove items effortlessly.</li>
 <li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile.</li>
 </ol>
@@ -24,6 +28,7 @@
 
   <ol>
 </ol>
+<<<<<<< HEAD
 <hr/>
 <h1>ScreenShots<h1>
 <h3>Home page</h3>
@@ -39,6 +44,9 @@
 <p>npm run dev</p>
 <p>5.Open the app in your browser:</p>
 <p>http://localhost:5173</p>
+=======
+
+>>>>>>> 549abe25e940e6ae31e5e6fda0e646abafe2e7ee
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
