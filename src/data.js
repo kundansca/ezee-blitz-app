@@ -1,0 +1,73 @@
+const data = [
+  {
+    id: 1,
+    price: 1599,
+    name: "modest warm coat",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "jackets",
+  },
+  {
+    id: 2,
+    price: 749,
+    name: "comfy winter jacket",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "jackets",
+  },
+  {
+    id: 3,
+    price: 599,
+    name: "means thick jacket",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "jackets",
+  },
+  {
+    id: 4,
+    price: 849,
+    name: "Teal Parka",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "jackets",
+  },
+  {
+    id: 5,
+    price: 1299,
+    name: "women's Gray Coat",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "jackets",
+  },
+  {
+    id: 6,
+    price: 1599,
+    name: "minimalist Golden Scaf",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "scarfs",
+  },
+  {
+    id: 7,
+    price: 1799,
+    name: "Generic",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "Gloves",
+  },
+  {
+    id: 8,
+    price: 1199,
+    name: "Zibuyu",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "Gloves",
+  },
+  {
+    id: 9,
+    price: 1578,
+    name: "Tomorrow Fashion",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "Gloves",
+  },
+  {
+    id: 10,
+    price: 698,
+    name: "TopiBaaz",
+    description: "new range of formal shirts are designed keeping you in mind",
+    category: "Gloves",
+  },
+];
+export default data;
