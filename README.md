@@ -1,3 +1,17 @@
+<h1>Ezee-Blitz-App</h1>
+<p>A responsive and dynamic e-commerce web application<strong> built with React.js, Redux Toolkit, and React Router</strong>, designed for seamless user experience.</p>
+<h2>🚀 Live Demo</h2>
+<a href="https://ezeeblitzapp.netlify.app/" target="_self">👉 Ezee-Blitz-App</a>
+<hr/>
+<h1>📌 Features</h1>
+<ol>
+<li><strong>Add to Cart:</strong> Easily add items to your cart with instant updates.</li>
+<li><strong>Search Products:</strong> Quickly find your desired products.</li>
+<li>><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
+<li><strong>Manage Cart:</strong> Add or remove items effortlessly.</li>
+<li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile.</li>
+</ol>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
