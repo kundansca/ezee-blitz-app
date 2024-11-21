@@ -29,6 +29,18 @@
 <hr/>
 <h1>ScreenShots<h1>
 <h3>Home page</h3>
+<img src="project_screenshots/home_page.png">
+<h3>Search</h3>
+<img src="project_screenshots/product_search _wtih_name.png"/>
+<h3>Filter By Category</h3>
+<img src="project_screenshots/filter_by_category.png"/>
+<h3>Add To Cart</h3>
+<img src="project_screenshots/add_to_cart.png"/>
+<h3>Cart Items</h3>
+<img src="project_screenshots/cartItems.png"/>
+<h3>Click_by_button</h3>
+<img src="project_screenshots/click_buy_button.png"/>
+
 <hr/>
 <h1>⚙️ Installation and Setup</h1>
 <p>1. Clone the repository:</p>
