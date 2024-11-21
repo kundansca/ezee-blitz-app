@@ -40,6 +40,8 @@
 <img src="project_screenshots/cartItems.png"/>
 <h3>Click_by_button</h3>
 <img src="project_screenshots/click_buy_button.png"/>
+<h3>Remove cartItem form cart</h3>
+<img src="project_screenshots/remove_cartItem_from_cart.png"/>
 
 <hr/>
 <h1>⚙️ Installation and Setup</h1>
