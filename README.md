@@ -4,7 +4,7 @@
 <a href="https://ezeeblitzapp.netlify.app/" target="_self">👉 Ezee-Blitz-App</a>
 <hr/>
 <h1>📌 Features</h1>
-<ol>
+<ul>
 <li><strong>Add to Cart:</strong> Easily add items to your cart with instant updates.</li>
 <li><strong>Search Products:</strong> Quickly find your desired products.</li>
 <li><strong>Category Filters:</strong> Filter products by categories for easy navigation.</li>
@@ -12,20 +12,20 @@
 
 <li><strong>Manage Cart:</strong> Add or remove items effortlessly.</li>
 <li><strong>Responsive Design:</strong> Optimized for desktop, tablet, and mobile.</li>
-</ol>
+</ul>
 
 <hr/>
 <h1>🛠️ Tech Stack</h1>
-<ol>
+<ul>
   <li><strong>Frontend:</strong></li>
-  <ol>
+  <ul>
   <li>React.js</li>
   <li>Redux Toolkit (for state management)</li>
   <li>React Router (for navigation)</li>
   <li>Bootstrap (for styling and responsiveness)</li>
 
-  <ol>
-</ol>
+  <ul>
+</ul>
 <hr/>
 <h1>ScreenShots<h1>
 <h3>Home page</h3>
